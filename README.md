@@ -3,7 +3,7 @@
 </div>
 
 ### 👋 Hi there 
-#### I am a Product Analyst from Russia.
+#### I am a Junior Product Analyst from Russia.
 #### At the moment I`m completing a few product / data analytics courses.
 #### In the 'study_projects' repository you may find some of my study projects.
 ---
