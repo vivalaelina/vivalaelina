@@ -20,6 +20,6 @@
 
 ---
 
-### :mailbox: How to reach me : [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:popova.elina92@gmail.com) [![Telegram Badge](https://badges.aleen42.com/src/telegram.svg)](https://t.me/vivalaelina)
+### :mailbox: How to reach me : [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:popova.elina92@gmail.com) [![Telegram Badge](https://badges.aleen42.com/src/telegram.svg)](https://t.me/vivalaelina) [![LinkedIn Badge] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/elina-popova-pa/)
 
  
